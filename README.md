@@ -1,6 +1,9 @@
 # Odoo Argentina - Localización Argentina con Factura Electrónica
 Documentación para la instalación y configuración de la Localización Argentina en Odoo
 
+### Wiki
+La documentación formal se encuentra en la Wiki del presente repositorio: [Entrar a la Wiki](https://github.com/OdooAR/odoo-argentina/wiki)
+
 ### Reportar un problema
 Para reportar problemas en la instalación de la Localización se pide crear un Issue en el repositorio presente. Recomendamos seguir la siguiente plantilla al momento de reportar errores:
 
