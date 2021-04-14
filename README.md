@@ -17,6 +17,10 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 #### Website
 * [MultiSitio](https://github.com/OdooAR/odoo-argentina/wiki/MultiSitio)
 
+#### Conexión Externa
+* [Odoo API](https://github.com/OdooAR/odoo-argentina/wiki/Conexi%C3%B3n-con-Odoo-mediante-API)
+* [XMLRPC](https://github.com/OdooAR/odoo-argentina/wiki/Conexi%C3%B3n-con-Odoo-mediante-XMLRPC)
+
 ### Reportar un problema
 Para reportar problemas en la instalación de la Localización se pide crear un Issue en el repositorio presente. Recomendamos seguir la siguiente plantilla al momento de reportar errores:
 
