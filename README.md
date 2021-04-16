@@ -8,6 +8,7 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 
 #### Sistema
 * [Instalación Odoo Community](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-Odoo-Community)
+* [Instalación Odoo Docker](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-Odoo-en-Docker)
 * [Instalación de un Módulo de Odoo](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-un-M%C3%B3dulo)
 * [Optimización NGINX](https://github.com/OdooAR/odoo-argentina/wiki/Optimizaci%C3%B3n-con-NGINX)
 * [Solución a Errores Comunes](https://github.com/OdooAR/odoo-argentina/wiki/Errores-Comunes-en-Sistema)
