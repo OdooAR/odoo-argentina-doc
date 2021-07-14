@@ -17,6 +17,7 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 #### Factura Electrónica
 * [Factura Electrónica](https://github.com/OdooAR/odoo-argentina/wiki/Factura-Electr%C3%B3nica)
 * [QR en Factura Electrónica](https://github.com/OdooAR/odoo-argentina/wiki/QR-en-Factura-Electr%C3%B3nica)
+* [Reglamentación RG 5003](https://github.com/OdooAR/odoo-argentina-doc/wiki/Reglamentaci%C3%B3n-RG-5003)
 
 #### Website
 * [MultiSitio](https://github.com/OdooAR/odoo-argentina/wiki/MultiSitio)
