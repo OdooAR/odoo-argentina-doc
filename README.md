@@ -11,6 +11,7 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 * [Instalación Odoo en Docker](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-Odoo-en-Docker)
 * [Instalación de un Módulo de Odoo](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-un-M%C3%B3dulo)
 * [Optimización NGINX](https://github.com/OdooAR/odoo-argentina/wiki/Optimizaci%C3%B3n-con-NGINX)
+* [Optimización PostgreSQL](https://github.com/OdooAR/odoo-argentina-doc/wiki/Optimizaci%C3%B3n-PostgreSQL)
 * [Solución a Errores Comunes](https://github.com/OdooAR/odoo-argentina/wiki/Errores-Comunes-en-Sistema)
 
 #### Factura Electrónica
