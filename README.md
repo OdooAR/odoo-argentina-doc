@@ -29,8 +29,8 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 * [Odoo API](https://github.com/OdooAR/odoo-argentina/wiki/Conexi%C3%B3n-con-Odoo-mediante-API)
 * [XMLRPC](https://github.com/OdooAR/odoo-argentina/wiki/Conexi%C3%B3n-con-Odoo-mediante-XMLRPC)
 
-### Reportar un problema
-Para reportar problemas en la instalación de la Localización se pide crear un Issue en el repositorio presente. Recomendamos seguir la siguiente plantilla al momento de reportar errores:
+### Foro de Discusiones
+Para reportar problemas en la instalación de la Localización, Odoo o proponer Ideas, se pide crear una discusión en el [foro de Discusiones](https://github.com/OdooAR/odoo-argentina-doc/discussions). Recomendamos seguir la siguiente plantilla al momento de reportar errores:
 
 * **Versión de Odoo**: [Versión de Odoo, se encuentra en Ajustes]
 * **Sistema Operativo**: [Sistema Operativo donde se encuentra instalado]
