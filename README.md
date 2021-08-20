@@ -12,6 +12,7 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 * [Instalación de un Módulo de Odoo](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-un-M%C3%B3dulo)
 * [Optimización NGINX](https://github.com/OdooAR/odoo-argentina/wiki/Optimizaci%C3%B3n-con-NGINX)
 * [Optimización PostgreSQL](https://github.com/OdooAR/odoo-argentina-doc/wiki/Optimizaci%C3%B3n-PostgreSQL)
+* [Sincronizar números de Factura desincronizados](https://github.com/OdooAR/odoo-argentina-doc/wiki/Sincronizar-n%C3%BAmeros-de-Factura-desincronizados)
 * [Solución a Errores Comunes](https://github.com/OdooAR/odoo-argentina/wiki/Errores-Comunes-en-Sistema)
 
 #### Factura Electrónica
