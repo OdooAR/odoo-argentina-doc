@@ -12,13 +12,13 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 * [Instalación de un Módulo de Odoo](https://github.com/OdooAR/odoo-argentina/wiki/Instalaci%C3%B3n-de-un-M%C3%B3dulo)
 * [Optimización NGINX](https://github.com/OdooAR/odoo-argentina/wiki/Optimizaci%C3%B3n-con-NGINX)
 * [Optimización PostgreSQL](https://github.com/OdooAR/odoo-argentina-doc/wiki/Optimizaci%C3%B3n-PostgreSQL)
-* [Sincronizar números de Factura desincronizados](https://github.com/OdooAR/odoo-argentina-doc/wiki/Sincronizar-n%C3%BAmeros-de-Factura-desincronizados)
 * [Solución a Errores Comunes](https://github.com/OdooAR/odoo-argentina/wiki/Errores-Comunes-en-Sistema)
 
 #### Factura Electrónica
 * [Factura Electrónica](https://github.com/OdooAR/odoo-argentina/wiki/Factura-Electr%C3%B3nica)
 * [QR en Factura Electrónica](https://github.com/OdooAR/odoo-argentina/wiki/QR-en-Factura-Electr%C3%B3nica)
 * [Reglamentación RG 5003](https://github.com/OdooAR/odoo-argentina-doc/wiki/Reglamentaci%C3%B3n-RG-5003)
+* [Sincronizar números de Factura desincronizados](https://github.com/OdooAR/odoo-argentina-doc/wiki/Sincronizar-n%C3%BAmeros-de-Factura-desincronizados)
 
 #### Website
 * [MultiSitio](https://github.com/OdooAR/odoo-argentina/wiki/MultiSitio)
