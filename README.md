@@ -22,6 +22,9 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 * [Reglamentación RG 5003](https://github.com/OdooAR/odoo-argentina-doc/wiki/Reglamentaci%C3%B3n-RG-5003)
 * [Sincronizar números de Factura desincronizados](https://github.com/OdooAR/odoo-argentina-doc/wiki/Sincronizar-n%C3%BAmeros-de-Factura-desincronizados)
 
+#### Punto de Venta
+* [Soluciones a Errores en el POS](https://github.com/OdooAR/odoo-argentina-doc/wiki/Soluciones-a-Errores-en-el-POS)
+
 #### Website
 * [MultiSitio](https://github.com/OdooAR/odoo-argentina/wiki/MultiSitio)
 
