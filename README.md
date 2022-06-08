@@ -15,6 +15,7 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 * [Optimización PostgreSQL](https://github.com/OdooAR/odoo-argentina-doc/wiki/Optimizaci%C3%B3n-PostgreSQL)
 * [Idioma del Servidor (Debian)](https://github.com/OdooAR/odoo-argentina-doc/wiki/Idioma-del-Servidor-(Debian))
 * [Solución a Errores Comunes](https://github.com/OdooAR/odoo-argentina/wiki/Errores-Comunes-en-Sistema)
+* [Solución a Errores en Desarrollo](https://github.com/OdooAR/odoo-argentina-doc/wiki/Soluci%C3%B3n-a-Errores-en-Desarrollo)
 * [Solución a Errores con AFIP](https://github.com/OdooAR/odoo-argentina-doc/wiki/Soluci%C3%B3n-a-Errores-con-AFIP)
 
 #### Factura Electrónica
