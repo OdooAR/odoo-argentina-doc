@@ -33,6 +33,9 @@ La documentación formal se encuentra en la Wiki del presente repositorio: [Entr
 #### Reportes
 * [Reportes Aeroo](https://github.com/OdooAR/odoo-argentina/wiki/Reportes-Aeroo)
 
+#### Correo Electrónico
+* [Configuración de Email](https://github.com/OdooAR/odoo-argentina-doc/wiki/Configuraci%C3%B3n-de-Email)
+
 #### Conexión Externa
 * [Odoo API](https://github.com/OdooAR/odoo-argentina/wiki/Conexi%C3%B3n-con-Odoo-mediante-API)
 * [XMLRPC](https://github.com/OdooAR/odoo-argentina/wiki/Conexi%C3%B3n-con-Odoo-mediante-XMLRPC)
